@@ -1,5 +1,4 @@
 # 活动主题信息32323
-<details>
 ## 主题信息
 
 > https://api.bilibili.com/x/activity/subject/info
